@@ -4,7 +4,7 @@
 
 This project belongs to [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). Below you'll find links to the rest of the Nanodegree projects.
 
-- [Intro to data analysis]
+- Intro to data analysis [Part 1](https://github.com/j-smith3/Investigating_TMDb_Dataset) [Part 2]
 - [Exploratory data analysis]
 - [Data wrangling]
 - [Machine learning]
