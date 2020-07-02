@@ -1,6 +1,6 @@
 # OpenStreetMap-Saginaw-TX
 
-## Data Analysis Project — Udacity Data Analyst Nanodegree
+## Data Analysis Project - Udacity Data Analyst Nanodegree
 
 This project belongs to [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). Below you'll find links to the rest of the Nanodegree projects.
 
