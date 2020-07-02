@@ -1,7 +1,7 @@
 # OpenStreetMap-Saginaw-TX
 Saginaw's OpenStreetMap data wrangling and analysis through SQL queries.
 
-##Usage
+## Usage
 
 data can be downloaded [here](https://www.openstreetmap.org/relation/6571681)
 
