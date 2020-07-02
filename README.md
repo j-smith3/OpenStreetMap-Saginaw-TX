@@ -7,7 +7,7 @@ This project investigated the OpenStreetMap data for my home town, Saginaw Texas
 ## Usage
 This project can be recreated by doing then following:
 
-- Download OSM data [here](https://www.openstreetmap.org/relation/6571681)
+- Download OSM data [here](https://www.openstreetmap.org/relation/6571681) or use ```sample.osm``` for a sample of the original OSM file
 
 - Execute ```data.py``` to refine data and create csv files 
 
