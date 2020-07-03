@@ -16,7 +16,7 @@ This project was developed in 2020 and is no longer maintained.
 This project investigated the OpenStreetMap data for my home town, Saginaw Texas. The OpenStreetMap data can be found [here](https://www.openstreetmap.org/relation/6571681). My project used this data, wrangled it into a cleaner format, then stored it into a SQLite database for further queries. 
 
 ## Usage
-This project can be recreated by doing then following:
+This project can be recreated by doing the following:
 
 - Download OSM data [here](https://www.openstreetmap.org/relation/6571681) or use ```sample.osm``` for a small sample of the original OSM file
 
