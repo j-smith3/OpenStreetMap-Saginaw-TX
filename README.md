@@ -8,7 +8,7 @@ This project belongs to [Udacity's Data Analyst Nanodegree](https://www.udacity.
 - [Exploratory Data Analysis](https://github.com/j-smith3/White-Wine-EDA)
 - [Data Wrangling](https://github.com/j-smith3/OpenStreetMap-Saginaw-TX)
 - [Machine Learning](https://github.com/j-smith3/Enron_Fraud_Detection)
-- [Data Visualization]
+- [Data Visualization](https://github.com/j-smith3/Baseball-EDA-Visualization)
 
 This project was developed in 2020 and it is no longer maintained.
 
