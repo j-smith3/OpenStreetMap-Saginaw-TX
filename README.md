@@ -1,4 +1,4 @@
-# OpenStreetMap-Saginaw-TX
+# OpenStreetMap Data Wrangling - Saginaw, TX
 
 ## Data Analysis Project - Udacity Data Analyst Nanodegree
 
