@@ -10,7 +10,7 @@ This project belongs to [Udacity's Data Analyst Nanodegree](https://www.udacity.
 - [Machine Learning](https://github.com/j-smith3/Enron_Fraud_Detection)
 - [Data Visualization](https://github.com/j-smith3/Baseball-EDA-Visualization)
 
-This project was developed in 2020 and it is no longer maintained.
+This project was developed in 2020 and is no longer maintained.
 
 ## About
 This project investigated the OpenStreetMap data for my home town, Saginaw Texas. The OpenStreetMap data can be found [here](https://www.openstreetmap.org/relation/6571681). My project used this data, wrangled it into a cleaner format, then stored it into a SQLite database for further queries. 
